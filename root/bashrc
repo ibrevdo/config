@@ -1,0 +1,17 @@
+PS1='\[\033[1;35m\]\u\[\033[1;37m\]@\[\033[1;34m\]\h:\w\$\[\033[0m\] '
+ 
+EDITOR=vim
+
+if [ -f /etc/profile.d/bash_completion.sh ] && ! shopt -oq posix; then
+    . /etc/profile.d/bash_completion.sh
+fi
+ 
+alias ls="/bin/ls --color=auto --group-directories-first"
+alias ll='ls -l'
+alias la='ls -a'
+alias lla='ls -al'
+alias lf='ls -Fax'
+ 
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias grepit='egrep -v "^\s*(#|$)"'
