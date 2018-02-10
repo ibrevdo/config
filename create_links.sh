@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-# you should run this script only after a new file has been added under current directory
+# you should re-run this script only after a new file has been added under current directory
 
 rm /root/.bashrc
 ln -s /usr/local/config/root/bashrc /root/.bashrc
