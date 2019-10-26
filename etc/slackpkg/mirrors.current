@@ -240,7 +240,6 @@
 # ftp://mirror.its.dal.ca/slackware/slackware64-current/
 # http://mirror.its.dal.ca/slackware/slackware64-current/
 # CHINA (CN)
-# http://mirror.bjtu.edu.cn/slackware/slackware64-current/
 # http://mirrors.163.com/slackware/slackware64-current/
 # http://mirrors.ustc.edu.cn/slackware/slackware64-current/
 # COSTA RICA (CR)
@@ -360,5 +359,3 @@ http://ftp.gwdg.de/pub/linux/slackware/slackware64-current/
 # http://spout.ussg.indiana.edu/linux/slackware/slackware64-current/
 # ftp://teewurst.cc.columbia.edu/pub/linux/slackware/slackware64-current/
 # http://teewurst.cc.columbia.edu/pub/linux/slackware/slackware64-current/
-#http://mirrors.slackware.com/slackware/slackware64-current/
-# http://ftp.osuosl.org/.2/slackware/slackware64-current/
