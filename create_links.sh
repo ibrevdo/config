@@ -39,3 +39,6 @@ ln -sv ${CWD}/etc/slackpkg/blacklist.current $DEST/etc/slackpkg/blacklist
 rm $DEST/etc/slackpkg/slackpkgplus.conf
 ln -sv ${CWD}/etc/slackpkg/slackpkgplus.conf.current $DEST/etc/slackpkg/slackpkgplus.conf
 #ln -sv ${CWD}/etc/slackpkg/slackpkgplus.conf.14.2 /etc/slackpkg/slackpkgplus.conf
+
+rm $DEST/etc/rc.d/rc.local
+ln -sv ${CWD}/etc/rc.d/rc.local $DEST/etc/rc.d/rc.local

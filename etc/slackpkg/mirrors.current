@@ -261,7 +261,7 @@
 # GERMANY (DE)
 # ftp://ftp.fu-berlin.de/unix/linux/slackware/slackware64-current/
 # ftp://ftp.gwdg.de/pub/linux/slackware/slackware64-current/
-http://ftp.gwdg.de/pub/linux/slackware/slackware64-current/
+# http://ftp.gwdg.de/pub/linux/slackware/slackware64-current/
 # ftp://ftp.tu-chemnitz.de/pub/linux/slackware/slackware64-current/
 # http://ftp.tu-chemnitz.de/pub/linux/slackware/slackware64-current/
 # ftp://sunsite.informatik.rwth-aachen.de/pub/comp/Linux/slackware/slackware64-current/
@@ -351,7 +351,7 @@ http://ftp.gwdg.de/pub/linux/slackware/slackware64-current/
 # ftp://mirrors.xmission.com/slackware/slackware64-current/
 # http://mirrors.xmission.com/slackware/slackware64-current/
 # https://mirror.slackbuilds.org/slackware/slackware64-current/
-# http://slackware.cs.utah.edu/pub/slackware/slackware64-current/
+http://slackware.cs.utah.edu/pub/slackware/slackware64-current/
 # http://slackware.mirrors.pair.com/slackware64-current/
 # ftp://slackware.mirrors.tds.net/pub/slackware/slackware64-current/
 # http://slackware.mirrors.tds.net/pub/slackware/slackware64-current/
