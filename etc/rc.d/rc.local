@@ -7,5 +7,5 @@
 # make an /etc/rc.d/rc.local_shutdown script and put those
 # commands in there.
 
-su -c 'nohup /home/mago/git/notes/jekyll.sh start' - mago
+su -c '/home/mago/git/notes/jekyll.sh start > /dev/null 2>&1' - mago
 
