@@ -5,14 +5,14 @@ USEBL=1
 WGETOPTS="--timeout=20 --tries=3"
 GREYLIST=on
 PKGS_PRIORITY=( restricted alienbob ktown )
-REPOPLUS=( slackpkgplus restricted alienbob ktown ponce slacky)
+REPOPLUS=( slackpkgplus restricted alienbob ktown)
 MIRRORPLUS['slackpkgplus']=http://slakfinder.org/slackpkg+/
 MIRRORPLUS['restricted']=http://bear.alienbase.nl/mirrors/people/alien/restricted_sbrepos/current/x86_64/
 MIRRORPLUS['alienbob']=http://bear.alienbase.nl/mirrors/people/alien/sbrepos/current/x86_64/
-#MIRRORPLUS['ktown_testing']=http://bear.alienbase.nl/mirrors/alien-kde/current/testing/x86_64/
 MIRRORPLUS['ktown']=http://bear.alienbase.nl/mirrors/alien-kde/current/latest/x86_64/
+#MIRRORPLUS['ktown_testing']=http://bear.alienbase.nl/mirrors/alien-kde/current/testing/x86_64/
 #MIRRORPLUS['mate']=http://slackware.uk/msb/current/latest/x86_64/ 
-#MIRRORPLUS['studioware']=http://slackware.uk/studioware/current/ o
-MIRRORPLUS['ponce']=http://ponce.cc/slackware/slackware64-current/packages/
-MIRRORPLUS['slacky']=http://repository.slacky.eu/slackware64-14.2/
+#MIRRORPLUS['studioware']=http://slackware.uk/studioware/current/
+#MIRRORPLUS['ponce']=http://ponce.cc/slackware/slackware64-current/packages/
+#MIRRORPLUS['slacky']=http://repository.slacky.eu/slackware64-14.2/
 
