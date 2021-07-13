@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # /etc/rc.d/rc.local:  Local system initialization script.
 #
@@ -7,5 +7,6 @@
 # make an /etc/rc.d/rc.local_shutdown script and put those
 # commands in there.
 
-su -c '/home/mago/git/notes/jekyll.sh start > /dev/null 2>&1' - mago
+#su -c '/home/mago/git/notes/jekyll.sh start > /dev/null 2>&1' - mago
+su -c '/home/mago/git/notes/httpd.sh start > /dev/null 2>&1' - mago
 

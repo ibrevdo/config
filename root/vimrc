@@ -66,7 +66,14 @@ nnoremap <C-l> :nohl<CR><C-l>
 nnoremap gb :ls<CR>:b<Space>
 
 
-colorscheme desert
+"colorscheme desert
+" TMUX
+" needed for true colors inside tmux
+set t_8f=[38;2;%lu;%lu;%lum
+set t_8b=[48;2;%lu;%lu;%lum
+colorscheme molokai
+set termguicolors
+
 filetype indent plugin on
 syntax enable
 
